@@ -1,0 +1,216 @@
+@media (max-width: 1440px){
+.container {
+    width: 90%;
+}
+}
+
+@media (max-width: 1200px){
+    .sobre-text p {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1024px){
+    .hero-block h1 {
+        font-size: 45px;
+    }
+    .hero-block p {
+        font-size: 19px;
+    }
+    .about-circle {
+        width: 538px;
+    }
+    .about-circle input {
+        width: 495px;
+    }
+    .sobre-block h1 {
+        font-size: 44px;
+    }
+
+
+
+    }
+
+@media (max-width: 992px){
+    .container {
+        width: 90%;
+    }
+    .header h1 {
+    font-size: 34px;
+}
+    .header h1 {
+    font-size: 34px;
+}
+    .hero-block p {
+        font-size: 18px;
+    }
+    .about-circle {
+        width: 514px;
+    }
+    .about-circle input {
+        width: 473px;
+    }
+
+
+}
+
+@media (max-width: 768px){
+    .container {
+        width: 90%;
+    }
+    .header h1 {
+        font-size: 27px;
+    }
+    .header h1 {
+        font-size: 27px;
+    }
+    .hero-block h1 {
+        font-size: 24px;
+    }
+    .hero-block p {
+        font-size: 17px;
+    }
+    .hero-block button {
+        margin-top: 29px;
+        padding: 0 26px;
+        font-size: 14px;
+    }
+    .about-block2 h1 {
+        font-size: 32px;
+    }
+    .about {
+        flex-direction: column;
+    }
+    .about-block img {
+        padding-left: 195px;
+    }
+    .about-block2 h1 {
+        font-size: 28px;
+    }
+    .sobre-block h1 {
+        font-size: 34px;
+    }
+    .sobre h1 {
+        font-size: 44px;
+    }
+    .sobre-text p {
+        font-size: 12px;
+    }
+    .footer h1 {
+        font-size: 39px;
+    }
+    .footer p {
+        font-size: 23px;
+    }
+    .footer a {
+        font-size: 23px;
+    }
+    .footer-block button {
+        font-size: 18px;
+        width: 204px;
+        height: 45px;
+    }
+
+
+
+
+
+    }
+
+@media (max-width: 576px){
+    .container {
+        width: 90%;
+    }
+    .header p {
+        font-size: 19px;
+    }
+    .header h1 {
+        font-size: 20px;
+    }
+    .hero {
+        flex-direction: column;
+    }
+    .header-block h1 {
+        font-size: 30px;
+    }
+    .hero-block p {
+        font-size: 20px;
+    }
+    .hero-block button {
+        padding: 0 24px;
+        font-size: 16px;
+        margin-left: 175px;
+    }
+    .about {
+        flex-direction: column;
+    }
+    .about-block h1 {
+        font-size: 40px;
+    }
+    .about-block2 h1 {
+        font-size: 30px;
+    }
+    .about-circle {
+        margin-left: 0;
+        width: 435px;
+    }
+    .about-circle input {
+        width: 290px;
+    }
+    .sobre h1 {
+        font-size: 35px;
+    }
+    .sobre-block h1 {
+        font-size: 25px;
+    }
+    .sobre-mini {
+        flex-direction: column;
+    }
+    .sobre-text p {
+        font-size: 16px;
+    }
+    .footer h1 {
+        font-size: 30px;
+    }
+    .footer p {
+        font-size: 25px;
+    }
+    .mini-block input {
+        width: 395px;
+    }
+    .footer-block button {
+        width: 185px;
+        height: 50px;
+        font-size: 20px;
+        margin-left: 95px;
+    }
+}
+
+@media (max-width: 450px){
+    .container {
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 400px){
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 380px){
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 320px){
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1140px){
+
+}
